@@ -3,6 +3,5 @@
   <div>
     <h3>GHFear @ Illusory</h3>
     <p>Reverse Engineer and C/C++ Programmer.</p>
-    <p>RE Youtube Channel: Coming soon...</p>
   </div>
 </div>
