@@ -6,7 +6,7 @@
     Favorite languages: C/C++ | x64 Assembly | Python | Javascript | HTML | CSS
     OS: Linux Mint 22 (Main) | Windows 11 (VM)
     UI: Electron | QT | WIn32 API
-    Backend: Node.js server | Supabase
+    Backend: Node.js | Supabase
     
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHFear"/>
