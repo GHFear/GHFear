@@ -12,6 +12,6 @@
 
 <style>
   #test {
-    width: 5%;
+    background-color: blue;
   }
 </style>
