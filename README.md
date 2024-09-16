@@ -1,6 +1,6 @@
-<div style="overflow: auto;">
+<div style="overflow: auto; background-color: yellow;">
 <!--   <img src="https://github.com/GHFear/GHFear/blob/main/github_logo_3.png" alt="GitHub Logo" style="float: left; margin-right: 20px;" width="800" height="300"> -->
-  <div style="background-color: yellow;">
+  <div>
     <h3>GHFear @ Illusory Software</h3>
     <h4>Favorite languages:</h4> <p>C/C++ | x64 Assembly | Python | Javascript | HTML | CSS</p>
     <h4>OS:</h4> <p>Linux Mint 22 (Main) | Windows 11 (VM)</p>
