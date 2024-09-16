@@ -12,6 +12,6 @@
 
 <style>
   #test {
-    width: 50%;
+    width: 5%;
   }
 </style>
