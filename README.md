@@ -3,9 +3,9 @@
   <div id="test">
     <h3>GHFear @ Illusory Software</h3>
     <h4>Favorite languages: <p>C/C++ | x64 Assembly | Python | Javascript | HTML | CSS</p></h4> 
-    <h4>OS:</h4> <p>Linux Mint 22 (Main) | Windows 11 (VM)</p>
-    <h4>UI:</h4> <p>Electron | QT | WIn32 API</p>
-    <h4>Backend:</h4> <p>Node.js server | Supabase</p>
+    <h4>OS: <p>Linux Mint 22 (Main) | Windows 11 (VM)</p></h4> 
+    <h4>UI: <p>Electron | QT | WIn32 API</p></h4> 
+    <h4>Backend: <p>Node.js server | Supabase</p></h4> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHFear"/>
   </div>
 </div>
