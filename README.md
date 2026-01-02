@@ -1,11 +1,11 @@
-| Language Stats  | Github Stats |
-| ------------- | ------------- |
-| ![GHFear's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GHFear)  | ![GHFear's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHFear&theme=dark&show_icons=true)  |
+# 👋 Hi, I'm ghfear
 
-| Reverse Engineering Tools | UI | Languages |
-| ------------- | ------------- | ------------- |
-| IDA Pro, Binary Ninja, x64dbg | Electron, QT, Win32 API, ImGUI  | C/C++, x64 Assembly, JavaScript, Python, HTML, CSS|
+<p align="center">
+  <img src="https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif" width="600" />
+</p>
 
+Welcome to my GitHub profile!
 
+## 📫 Contact
 
-
+* GitHub: [@ghfear](https://github.com/ghfear)
