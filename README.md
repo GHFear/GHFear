@@ -8,4 +8,4 @@ Welcome to my GitHub profile!
 
 ## 📫 Contact
 
-* GitHub: [@ghfear](https://github.com/ghfear)
+* Discord: @ghfear
